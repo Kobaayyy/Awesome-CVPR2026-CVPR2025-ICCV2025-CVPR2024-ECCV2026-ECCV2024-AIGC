@@ -1,4 +1,4 @@
-# Awesome-CVPR2026-CVPR2025-ICCV25-CVPR2024-ECCV2024-AIGC[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-CVPR2026-CVPR2025-ICCV25-CVPR2024-ECCV2026-ECCV2024-AIGC[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A Collection of Papers and Codes for CVPR2024 AIGC
 
@@ -20,6 +20,8 @@ A Collection of Papers and Codes for CVPR2024 AIGC
 - [Awesome-ICCV2025-AIGC](https://github.com/Kobaayyy/Awesome-ICCV2025-CVPR2025-CVPR2024-ECCV2024-AIGC/blob/main/ICCV2025.md)
 # Awesome-CVPR2024-AIGC
 - [Awesome-CVPR2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-ECCV2024-AIGC/blob/main/CVPR2024.md)
+# Awesome-ECCV2026-AIGC
+- [Awesome-ECCV2026-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2024-AIGC/blob/main/ECCV2026.md)
 # Awesome-ECCV2024-AIGC
 - [Awesome-ECCV2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-ECCV2024-AIGC/blob/main/ECCV2024.md)
 
