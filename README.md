@@ -1,6 +1,6 @@
 # Awesome-CVPR2026-CVPR2025-ICCV25-CVPR2024-ECCV2026-ECCV2024-AIGC[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A Collection of Papers and Codes for CVPR2024 AIGC
+A Collection of Papers and Codes for CVPR2026/CVPR2025/ICCV25/CVPR2024/ECCV2026/ECCV2024 AIGC
 
 **整理汇总了下2026年CVPR,2025年CVPR，2025年ICCV，2024年CVPR和2024年ECCV AIGC相关的论文和代码，具体如下。**
 
